@@ -14,6 +14,7 @@ const translations = {
     "desc-tictactoe": "Classic Tic Tac Toe for one or two players. Simple but fun.",
     "desc-dodge": "Arcade game – dodge falling boxes as long as you can.",
     "desc-uhadni": "Geography quiz – guess which city is in the picture. Do you know world cities?",
+    "desc-kawaii": "Cute match-3 puzzle – match kawaii fruits and clear the board.",
   },
   cs: {
     pageTitle: "Petr Martinec - Vývojář mobilních aplikací",
@@ -30,6 +31,7 @@ const translations = {
     "desc-tictactoe": "Klasické piškvorky pro jednoho nebo dva hráče. Jednoduchá, ale zábavná.",
     "desc-dodge": "Arkádová hra – vyhýbej se padajícím krabicím co nejdéle dokážeš.",
     "desc-uhadni": "Zeměpisný kvíz – uhádni, které město je na obrázku. Znáš světová města?",
+    "desc-kawaii": "Roztomilá match-3 puzzle – páruj kawaii ovoce a vyčisti herní plochu.",
   }
 };
 
