@@ -15,6 +15,7 @@ const translations = {
     "desc-dodge": "Arcade game – dodge falling boxes as long as you can.",
     "desc-uhadni": "Geography quiz – guess which city is in the picture. Do you know world cities?",
     "desc-kawaii": "Cute match-3 puzzle – match kawaii fruits and clear the board.",
+    "desc-nomad": "Arcade shooter – fly through 10 missions, defeat bosses and upgrade your ship.",
   },
   cs: {
     pageTitle: "Petr Martinec - Vývojář mobilních aplikací",
@@ -32,6 +33,7 @@ const translations = {
     "desc-dodge": "Arkádová hra – vyhýbej se padajícím krabicím co nejdéle dokážeš.",
     "desc-uhadni": "Zeměpisný kvíz – uhádni, které město je na obrázku. Znáš světová města?",
     "desc-kawaii": "Roztomilá match-3 puzzle – páruj kawaii ovoce a vyčisti herní plochu.",
+    "desc-nomad": "Arkádová střílečka – proleť 10 misí, poraz bossy a vylepšuj svou loď.",
   }
 };
 
