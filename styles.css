@@ -90,6 +90,12 @@ h1 {
     background: #fff0f4;
 }
 
+.social-link-itch:hover {
+    color: #fa5c5c;
+    border-color: #fa5c5c;
+    background: #fff3f3;
+}
+
 .bio {
     margin-bottom: 40px;
 }
@@ -254,6 +260,30 @@ h1 {
     width: auto;
 }
 
+.itch-cover {
+    width: 100%;
+    aspect-ratio: 315 / 250;
+    border-radius: 12px;
+    object-fit: cover;
+}
+
+.itch-button {
+    display: inline-block;
+    margin-top: 6px;
+    background: #fa5c5c;
+    color: white;
+    padding: 10px 22px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+    transition: background 0.2s ease;
+}
+
+.itch-button:hover {
+    background: #e04848;
+}
+
 @media (max-width: 600px) {
     .container {
         padding: 40px 25px;
@@ -275,5 +305,9 @@ h1 {
 
     .games-grid {
         grid-template-columns: 1fr;
+    }
+
+    .social-links {
+        flex-wrap: wrap;
     }
 }

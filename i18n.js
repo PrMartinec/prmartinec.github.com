@@ -16,6 +16,12 @@ const translations = {
     "desc-uhadni": "Geography quiz – guess which city is in the picture. Do you know world cities?",
     "desc-kawaii": "Cute match-3 puzzle – match kawaii fruits and clear the board.",
     "desc-nomad": "Arcade shooter – fly through 10 missions, defeat bosses and upgrade your ship.",
+    itchTitle: "My Creations on itch.io",
+    itchButton: "View on itch.io",
+    "desc-duopix": "A focused pixel art editor for game sprites and seamless tiles.",
+    "desc-coins": "7 low-poly coin shapes, 21 PBR variants and matching normal maps. GLB, FBX, OBJ and Blender source included.",
+    "desc-gems": "12 stylized low-poly 3D gems – diamonds, rubies, crystals and more for your game.",
+    "desc-fruits": "7 hand-crafted 128×128 pixel art fruit sprites with transparent backgrounds.",
   },
   cs: {
     pageTitle: "Petr Martinec - Vývojář mobilních aplikací",
@@ -34,6 +40,12 @@ const translations = {
     "desc-uhadni": "Zeměpisný kvíz – uhádni, které město je na obrázku. Znáš světová města?",
     "desc-kawaii": "Roztomilá match-3 puzzle – páruj kawaii ovoce a vyčisti herní plochu.",
     "desc-nomad": "Arkádová střílečka – proleť 10 misí, poraz bossy a vylepšuj svou loď.",
+    itchTitle: "Moje výtvory na itch.io",
+    itchButton: "Zobrazit na itch.io",
+    "desc-duopix": "Pixel art editor zaměřený na herní sprity a bezešvé dlaždice.",
+    "desc-coins": "7 low-poly tvarů mincí, 21 PBR variant a odpovídající normálové mapy. Včetně GLB, FBX, OBJ a zdrojového souboru pro Blender.",
+    "desc-gems": "12 stylizovaných low-poly 3D drahokamů – diamanty, rubíny, krystaly a další do tvé hry.",
+    "desc-fruits": "7 ručně kreslených pixel art spritů ovoce 128×128 s průhledným pozadím.",
   }
 };
 
